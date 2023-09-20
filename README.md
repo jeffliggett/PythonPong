@@ -1,2 +1,2 @@
-# PythonPong
-# Simple two player pong game created using the Pygame module
+# Pong
+Simple two player pong game made using python and the Pygame module.
